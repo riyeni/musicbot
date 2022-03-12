@@ -467,4 +467,4 @@ o -> 봇을 자신이 속한 채널에서 내보냅니다.
 ~a -> 목록에 노래를 추가합니다.
 ~d [숫자] -> 대기열에서 입력한 숫자에 해당하는 노래를 지웁니다.""", color = 0xA3A0ED))
 
-bot.run('OTE4MzkzMzc0MjUwMjYyNTI4.YbGmew.JVyOVrkQeeF7uIAkTlQN91kQGOo')
+bot.run('OTE4MzkzMzc0MjUwMjYyNTI4.YbGmew.J83ev7i_sPFkSJzyOcvIfeQVIAI')
